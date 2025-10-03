@@ -1,1 +1,6 @@
-
+pyrogram==2.2.25
+tgcrypto
+motor==3.1.1
+python-dotenv
+aiohttp
+pymongo[srv]
